@@ -1,4 +1,7 @@
-# Sankey Diagram Generator [https://SankeyPro.top](SankeyPro)
+# Sankey Diagram Generator 
+
+[https://SankeyPro.top](SankeyPro)
+
 Minimal Sankey Diagram Project
 This project implements a Sankey Diagram to visually represent the flow of data between different entities. Sankey diagrams are often used for displaying energy or material flows, but they can be applied to a wide range of data visualization purposes. This README outlines the setup, installation, and usage instructions for the project.
 
